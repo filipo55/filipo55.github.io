@@ -1,13 +1,12 @@
 ---
-layout: home
-title: "Agile Phil"
+layout: index
 permalink: /
 ---
 
-# Hi, I'm Phil
+# About me
 
 I work with scale-ups, enterprises, and cross-functional teams navigating complex change. My edge? A rare mix of systems thinking, leadership coaching, and sharp delivery instincts. I step in when organizations need clarity, momentum, and someone who can lead without ego — and get results.
-## About Me
+## Impact
 
 ⚡ 20+ teams transformed\
 💰 Multi-million dollar project impact\
