@@ -1,7 +1,8 @@
+---
 layout: home
 title: "Agile Phil"
 permalink: /
-
+---
 
 # Hi, I'm Phil
 
